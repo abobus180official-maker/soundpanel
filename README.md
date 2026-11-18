@@ -1,4 +1,4 @@
-<img width="48" height="48" alt="appicon" src="https://github.com/user-attachments/assets/eab39535-13db-469c-a014-118f5440989d" />    # SoundPanel
+# SoundPanel    <img width="48" height="48" alt="appicon" src="https://github.com/user-attachments/assets/eab39535-13db-469c-a014-118f5440989d" />
 
 Звуковая панель для Windows в духе Soundpad: список звуков, глобальные горячие клавиши,
 воспроизведение в выбранное устройство и подмешивание микрофона.
