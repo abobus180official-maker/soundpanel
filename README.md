@@ -1,4 +1,4 @@
-# SoundPanel
+<img width="48" height="48" alt="appicon" src="https://github.com/user-attachments/assets/eab39535-13db-469c-a014-118f5440989d" />    # SoundPanel
 
 Звуковая панель для Windows в духе Soundpad: список звуков, глобальные горячие клавиши,
 воспроизведение в выбранное устройство и подмешивание микрофона.
@@ -14,6 +14,9 @@
 - Сохранение плейлиста и настроек в `%APPDATA%\SoundPanel\config.json`.
 
 Поддерживаемые форматы: wav, mp3, ogg, flac, aiff, opus (через libsndfile).
+
+<img width="1120" height="720" alt="preview" src="https://github.com/user-attachments/assets/31f69796-ca32-4713-91b0-d20c22a4ab37" />
+
 
 ## Передача звуков в голосовой чат
 
